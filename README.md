@@ -13,5 +13,8 @@ docker-compose up
 Edit the credentials in the yaml file if you want more control over them. Dont forget to change them in both services to be the same thing.
 
 ---
+
+Use wordpress as usual to add woocommerce if thats what you want
+
 Large sample data set here:
 https://glover.us/blog/woocommerce-sample-data-set/
