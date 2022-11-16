@@ -10,4 +10,8 @@ In a terminal cd to that folder, then run
 docker-compose up
 ```
 
-Edit the credntials in the yaml file if you want more control over them. Dont forget to change them in both services to be the same thing.
+Edit the credentials in the yaml file if you want more control over them. Dont forget to change them in both services to be the same thing.
+
+---
+Large sample data set here:
+https://glover.us/blog/woocommerce-sample-data-set/
